@@ -11,3 +11,10 @@ Ngày 17/9 - Tra cứu về AWS.(https://cloudjourney.awsstudygroup.com/)
 
 Tổng kết:
   - Tuần 1 tự tìm hiểu tại nhà chưa được năng suất.
+  - Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản:
+              + Compute
+              + Storage
+              + Netwoeking
+              + Database
+
+
