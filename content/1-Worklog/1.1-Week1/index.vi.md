@@ -1,7 +1,9 @@
 BÁO CÁO TIẾN ĐỘ HỌC TẬP
 
 Lĩnh vực: AWS Cloud Security
+
 TUẦN 0 - Làm quen với các thành viên AWS,tạo tài khoản AWS free tier
+
 TUẦN 1 – Tìm hiểu tổng quan về AWS và Cloud Security
 
 Nội dung thực hiện:
