@@ -1,20 +1,25 @@
-Tuần 1
-Ngày 14/9/2026 - bắt đầu kì thực tập
+BÁO CÁO TIẾN ĐỘ HỌC TẬP
 
-Mục tiêu: Làm quen với các thành viên AWS,làm rõ các thắc mắc về chương trình thực tập.
-          -Nắm sơ bộ về AWS services,các sử dụng console và CLI.
+Lĩnh vực: AWS Cloud Security
+TUẦN 0 - Làm quen với các thành viên AWS,tạo tài khoản AWS free
+TUẦN 1 – Tìm hiểu tổng quan về AWS và Cloud Security
 
-Ngày 16/9 - Làm quen với các thành viên FCAJ
-- Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập.
+Nội dung thực hiện:
 
-Ngày 17/9 - Tra cứu về AWS.(https://cloudjourney.awsstudygroup.com/)
+Tìm hiểu tổng quan về điện toán đám mây (Cloud Computing), các mô hình dịch vụ IaaS, PaaS và SaaS.
 
-Tổng kết:
-  - Tuần 1 tự tìm hiểu tại nhà chưa được năng suất.
-  - Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản:
-              + Compute
-              + Storage
-              + Netwoeking
-              + Database
+Nghiên cứu hệ sinh thái AWS và chức năng của một số dịch vụ cơ bản như EC2, S3, VPC và IAM.
 
+Tìm hiểu khái niệm Cloud Security, các vấn đề bảo mật thường gặp trong môi trường điện toán đám mây.
 
+Nghiên cứu mô hình AWS Shared Responsibility Model.
+
+Kết quả đạt được:
+
+Nắm được kiến thức tổng quan về AWS, hiểu được vai trò của bảo mật trong môi trường Cloud và xác định được các nhóm kiến thức cần tập trung nghiên cứu trong lĩnh vực Cloud Security.
+
+Tài liệu tham khảo:
+
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
+
+https://aws.amazon.com/compliance/shared-responsibility-model/
