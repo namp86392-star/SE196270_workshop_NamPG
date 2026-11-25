@@ -1,21 +1,24 @@
-# Week 1
+# LEARNING PROGRESS REPORT
 
-**September 14, 2026 – Internship Begins**
+**Field: AWS Cloud Security**
 
-**Objectives:**
-- Get acquainted with AWS members and clarify questions regarding the internship program.
-- Gain a basic understanding of AWS services and how to use the Console and CLI.
+**WEEK 0 – Getting to know AWS team members and creating an AWS Free Tier account**
 
-**September 16 – Getting acquainted with FCAJ members**
-- Read and take note of the rules and regulations of the internship organization.
+**WEEK 1 – Introduction to AWS and Cloud Security**
 
-**September 17 – Researching AWS**
-- Research AWS: [https://cloudjourney.awsstudygroup.com/](https://cloudjourney.awsstudygroup.com/)
+**Activities Performed:**
 
-**Summary:**
-- Self-study at home during the first week was not very productive.
-- Understood what AWS is and gained a basic understanding of its main service categories:
-  - Compute
-  - Storage
-  - Networking
-  - Database
+- Studied the fundamentals of Cloud Computing and its service models: IaaS, PaaS, and SaaS.
+- Explored the AWS ecosystem and the functions of several basic services, including EC2, S3, VPC, and IAM.
+- Learned about the concept of Cloud Security and common security issues in cloud computing environments.
+- Studied the AWS Shared Responsibility Model.
+
+**Results Achieved:**
+
+Gained a general understanding of AWS, understood the importance of security in cloud environments, and identified the key areas of knowledge to focus on in the field of AWS Cloud Security.
+
+**References:**
+
+[https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html]
+
+[https://aws.amazon.com/compliance/shared-responsibility-model/]
