@@ -30,6 +30,8 @@ Ngoài ra, tôi sẽ chủ động tham gia các hoạt động công nghệ, th
 ## 5. Kết luận
 
 AWS Cloud and AI Day Hanoi 2026 là một trải nghiệm bổ ích, giúp tôi mở rộng kiến thức và có cái nhìn tổng quan hơn về xu hướng công nghệ hiện nay. Qua đó, tôi nhận thức được tầm quan trọng của việc kết hợp kiến thức lý thuyết với thực hành, cũng như không ngừng cập nhật công nghệ mới để chuẩn bị tốt hơn cho công việc trong tương lai.
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/442d9005-ccc0-4a39-9aef-3904b32ce7a4" />
+
 <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/bb7f0aa1-59c0-4ced-9077-c39938bfb26b" />
 <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/fe4c1267-19a5-4795-a565-90176a051ae1" />
 
